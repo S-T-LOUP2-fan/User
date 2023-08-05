@@ -28,5 +28,11 @@
         "designation" : "CEO",
         "email" : "nicholas.piponidou@icloud.com",
         "description" : "The creator of the app, dose it serve a purpose yet?"
+    },
+    {
+        "name" : "Jesus",
+        "designation" : "GOD",
+        "email" : "Jesus.Christ@gmail.com",
+        "description" : "He is god"
     }
 ]
