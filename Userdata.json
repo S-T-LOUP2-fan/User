@@ -35,22 +35,5 @@
         "email" : "Jesus.Christ@gmail.com",
         "description" : "I am god"
     },
-    {
-        "name" : "Mario",
-        "designation" : "Super Smash Bros Ultimate",
-        "email" : "Super.Mario@gmail.com",
-        "description" : "Yahoo?!?!"
-    },
-    {
-        "name" : "Luigi",
-        "designation" : "Super Smash Bros Ultimate",
-        "email" : "Super.Luigi@gmail.com",
-        "description" : "Wahoo?!?!"
-    },
-    {
-        "name" : "Peach",
-        "designation" : "Princess",
-        "email" : "Princess.Peach@gmail.com",
-        "description" : "I am Princess of the Mushroom Kingdom"
-    },
+
 ]
