@@ -35,4 +35,40 @@
         "email" : "Jesus.Christ@gmail.com",
         "description" : "I am god"
     },
+        {
+        "name" : "Mario",
+        "designation" : "Super Smash Bros Ultimate",
+        "email" : "Super.Mario@gmail.com",
+        "description" : "Yahoo?!?!"
+    },
+    {
+        "name" : "Luigi",
+        "designation" : "Super Smash Bros Ultimate",
+        "email" : "Super.Luigi@gmail.com",
+        "description" : "Wahoo?!?!"
+    },
+    {
+        "name" : "Peach",
+        "designation" : "Super Smash Bros Ultimate",
+        "email" : "Princess.Peach@gmail.com",
+        "description" : "I am Princess of the Mushroom Kingdom"
+    },
+        {
+        "name" : "Sonic",
+        "designation" : "Super Smash Bros Ultimate",
+        "email" : "Super.Sonic@gmail.com",
+        "description" : "Sonic Speeed?!?!"
+    },
+    {
+        "name" : "Tails",
+        "designation" : "Super Smash Bros Ultimate",
+        "email" : "Super.Tails@gmail.com",
+        "description" : "Miles Per Hour?!?!"
+    },
+    {
+        "name" : "Knuckles",
+        "designation" : "Super Smash Bros Ultimate",
+        "email" : "Super.Knuckles@gmail.com",
+        "description" : "Unlike Sonic I don't chuckle?!?!"
+    },
 ]
